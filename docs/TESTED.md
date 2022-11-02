@@ -68,6 +68,7 @@ To aid users in troubleshooting, we've compiled a list of users who've reported 
 | ^^ | ^^ | vinaypundith | Unknown | 0.0.7 | ^^ |
 | ^^ | ^^ | casey1234 | Upgraded | 0.3.3 | Upgraded RAM and SSD |
 | ^^ | ^^ | crystall1nedev | Upgraded | 0.4.4 | ^^ |
+| ^^ | ^^ | javanesse | Upgraded | 0.5.1 | Upgraded RAM and SSD |
 | MacBookPro10,1 | <span style="color:#30BCD5"> YES </span> | traviswparker | Stock | 0.0.14 | N/A |
 | ^^ | ^^ | il-rollino | Upgraded | 0.0.21 | Upgraded BCM94360CSAX |
 | MacBookPro10,2 | ^^ | akidone | ^^ | 0.3.0 | ^^ |
